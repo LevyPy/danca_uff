@@ -2,7 +2,7 @@
 
 ## Quem Somos
 
-Somos um movimento popular e voluntário de fomento à dança, criado com o intuito de reunir pessoas para dançar em suas diversas formas: dança livre, práticas coordenadas, aulas, treinos e outras manifestações. Não possuímos vínculo com nenhuma instituição formal, nem estrutura hierárquica definida. Somos um movimento orgânico, aberto e plural, organizado principalmente através de redes sociais e aplicativos de mensagens.
+Somos um movimento popular e voluntário de fomento à dança, criado com o intuito de reunir pessoas para dançar em suas diversas formas: dança livre, práticas coordenadas, aulas, treinos e outras manifestações que surgir. Não possuímos vínculo com nenhuma instituição formal, nem estrutura hierárquica definida. Somos um movimento orgânico, aberto e plural, organizado principalmente através de redes sociais e aplicativos de mensagens. Contamos com o bom senso de todo mundo que participa e, em nenhum momento pedimos dinheiro. O que vale aqui é o amor pela dança e a vontade de estar junto.
 
 ## Nossa Organização
 
@@ -14,7 +14,7 @@ Somos um movimento popular e voluntário de fomento à dança, criado com o intu
 ## Espaços
 
 - Não possuímos espaço físico próprio.
-- Utilizamos principalmente espaços públicos, em sua maioria dentro ou no entorno da UFF.
+- Utilizamos principalmente espaços públicos, em sua maioria dentro ou no entorno dos Campi da UFF Niterói.
 - A escolha dos locais para atividades é feita de acordo com a disponibilidade e adequação para cada tipo de prática.
 
 ## Participação e Organização de Atividades
